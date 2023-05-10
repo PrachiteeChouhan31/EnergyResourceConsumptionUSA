@@ -1,5 +1,6 @@
 # EnergyResourceConsumptionUSA
 This visualization is about average Energy resource consumption in USA for years 2018-2020. 
+Tools: Tabaleau, Python pandas
 
 Goal:
 The purpose of this data visualization is to examine how the COVID-19 pandemic has affected US energy consumption trends, particularly considering state-by-state population trends and the pandemic's chronology. 
